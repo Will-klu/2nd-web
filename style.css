@@ -51,6 +51,7 @@ nav {
     align-items: center;
 }
 
+
 .nav-list a {
     color: black;
     font-weight: bold;
@@ -70,9 +71,19 @@ nav {
     font-weight: bold;
 }
 
+.btn-secondary:hover{
+    color: white;
+    background-color: black;
+}
+
 .btn-primary{
     border: none;
     background-color: yellow;
+}
+
+.btn-primary:hover{
+    color: yellow;
+    background-color: white;
 }
 
 .main-content{
